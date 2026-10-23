@@ -4,7 +4,7 @@ A small demo project used in a graduate seminar on software maintenance. It exis
 
 The project is a trivial report-export tool: it reads a local config file, renders a report, and writes the result to disk. It is intentionally buggy, and the issue tracker holds the work items for the in-class exercise.
 
-## Insructions
+## Installation
 
 Install the demo project from source:
 
